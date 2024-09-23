@@ -14,7 +14,7 @@ Imagine having a poetic companion that can craft verses as beautifully as Ghalib
 
 ## 🎯 Key Features
 
-- **Poetry Aggregation**: Seamlessly collects ghazals and poetry from diverse online sources, creating a rich dataset for training.
+- **Poetry Aggregation**: Seamlessly collects ghazals and poetry from diverse online sources, creating a rich dataset for training.(well more like one site but its in the works)
 - **Fine-Tuning with Style**: Utilizes the Alpaca and Unsloth frameworks to enhance the Gemma 2 9B model, allowing it to generate shayari that resonates with human emotions.
 - **Creativity Unleashed**: Generates original verses that reflect the essence of traditional poetry, making it a perfect tool for poetry enthusiasts and writers alike. Well not really since for now it is trained on a very small dataset but i am improving the scraping framewrok to pull in a lot more shayaris.
 
